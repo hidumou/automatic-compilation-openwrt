@@ -4,7 +4,7 @@
 # git clone  https://github.com/zzsj0928/luci-app-pushbot package/otherapp/luci-app-pushbot
 
 # openclash
-git clone https://github.com/vernesong/OpenClash.git package/OpenClash
+# git clone https://github.com/vernesong/OpenClash.git package/OpenClash
 
 # Theme
 # luci-theme-neobird
